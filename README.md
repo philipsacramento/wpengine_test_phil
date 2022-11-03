@@ -2,6 +2,7 @@
 
 This repository contains a starter Blueprint to get you up and running quickly on [WP Engine's Atlas platform](https://wpengine.com/atlas/) with a simple WordPress blog site.
 
+test
 ## For more information
 
 For more information on this Blueprint please check out the following sources:
