@@ -49,10 +49,10 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your New City!
+             Welcome to your Blueprint
             </Heading>
             <p className={styles.description}>
-              That's our lovely city, which you might want to move in&apos;s #1 Ecologic City in the PLANET!!!.{' '}
+            Achieve unprecedented performance with modern frameworks and the world's&apos; #1 open source CMS in one powerful headless platform.{' '}
             </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
