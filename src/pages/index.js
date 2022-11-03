@@ -51,9 +51,6 @@ export default function Page() {
             <Heading className={styles.heading} level="h1">
               Welcome to your New City!
             </Heading>
-            <p className={styles.description}>
-              That's our lovely city, which you might want to move in&apos;s #1 Ecologic City in the PLANET!!!.{' '}
-            </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
                 GET STARTED
